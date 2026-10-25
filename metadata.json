@@ -1,0 +1,6 @@
+{
+  "name": "UNIONSVC — Logistics & Technology Solutions",
+  "description": "Unionsvc connects modern logistics operations with practical technology-driven solutions, offering real-time shipment tracking, multimodal freight, and digital supply chain visibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
